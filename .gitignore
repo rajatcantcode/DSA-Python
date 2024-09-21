@@ -2,5 +2,5 @@
 venv/
 
 # Ignore VSCode settings
-.vscode/
+.vscode
 
